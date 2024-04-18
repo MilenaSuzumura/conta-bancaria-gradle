@@ -1,6 +1,6 @@
-# 🏦 Conta Bancaria Maven 🏦
+# 🏦 Conta Bancaria Gradle 🏦
 
-Conta Bancaria Maven é uma atividade focada em praticar a ferramenta Maven e na utilização da dependência StringUtils para o acesso a conta bancaria.
+Conta Bancaria Gradle é uma atividade focada em praticar a ferramenta Gradle e na utilização da dependência StringUtils para o acesso a conta bancaria.
 
 <strong>OBS:</strong> ESSA ATIVIDADE FOI DESENVOLVIDA NA TRYBE.
 
@@ -12,14 +12,14 @@ Conta Bancaria Maven é uma atividade focada em praticar a ferramenta Maven e na
   <summary><strong>⚙️ Técnologias usadas ⚙️</strong></summary><br>
 
 * Java;
-* Maven;
+* Gradle;
 * StringUtils
 </details>
 
 <details>
   <summary><strong>⌨️ Instalando Dependências ⌨️</strong></summary><br>
 
-Execute:  `mvn install`
+Execute:  `gradle install`
 </details>
 
 <br>
